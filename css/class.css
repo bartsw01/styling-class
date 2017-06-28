@@ -1,0 +1,15 @@
+p.vital {
+  color: red;
+  font-style: italic;
+  font-size: 30px;
+}
+
+p.best {
+  background-color: blue;
+  text-align: justify;
+}
+.pet {
+  font-family: serif;
+  font-size: 20px;
+  color: green;
+}
