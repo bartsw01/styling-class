@@ -13,3 +13,18 @@ p.best {
   font-size: 20px;
   color: green;
 }
+p.important {
+  color: red;
+  font-family:sans-serif;
+  font-size: 10px;
+}
+
+p.orangeblock {
+  background-color: orange;
+  text-align: justify;
+}
+
+h1.center {
+  text-align: center;
+  color: blue;
+}
